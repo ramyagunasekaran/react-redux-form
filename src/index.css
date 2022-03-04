@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.form-align{
+  margin-left: 30%;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  padding-left: 30px;
+  background-color: olivedrab;
+}
+
+.app-head{
+  padding-left: 15px;
+  color:#fff ;
+}
+
+
+.page-head{
+  padding-left: 15px;
+  color:rgb(153, 185, 89) ;
+}
+
+.wrong-head{
+  padding-left: 15px;
+  color:rgb(218, 92, 92) ;
+}
+
+
+.label{
+  color: rgb(107, 131, 61); ;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.label-b{
+  color: #000; ;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.button{
+  background-color: rgb(124, 160, 59);
+  border-radius: 20px;
+  color: #fff;
+  padding: 10px;
+  width: 100px;
+  font-size: large;
+}
+
+.prev-btn{
+  margin-right: 30%;
+ 
+}
+
+.submit-another-btn{
+ 
+    background-color: rgb(124, 160, 59);
+    border-radius: 20px;
+    color: #fff;
+    padding: 9px;
+    width: 150px;
+    font-size: large;
+
+}
+
+.m-btn{
+  margin-left: -11%;
+}
+
+.p-l{
+  padding-left: 45%;
+}
